@@ -1,0 +1,34 @@
+#EXTM3U
+#PLAYLIST:Combined-Playlist
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1 tvg-name="truTV (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" group-title="Missing Cjhannels",truTV (720p)
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+
+#EXTINF:-1 tvg-name="truTV West (720p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" group-title="Missing Cjhannels",truTV West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-name="Gospel Truth TV (1080p)" tvg-logo="https://i.imgur.com/LI52X2q.png" group-title="Religious",Gospel Truth TV (1080p)
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+
+#EXTINF:-1 tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="Series",More True Crime
+https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV True Crime (United States)" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" group-title="Documentary;Series",Pluto TV True Crime (United States)
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+
+#EXTINF:-1 tvg-name="True Crime Network (1080p) [Geo-blocked]" tvg-logo="https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png" group-title="Series",True Crime Network (1080p) [Geo-blocked]
+https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="True Crime Network WCVB-TV (720p)" tvg-logo="https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png" group-title="Series",True Crime Network WCVB-TV (720p)
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+
+#EXTINF:-1 tvg-name="True Crime Now (1080p)" tvg-logo="https://i.imgur.com/Y6Hix17.png" group-title="Undefined",True Crime Now (1080p)
+https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-name="True History (720p)" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="Undefined",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vevo True School Hip-Hop" tvg-logo="https://i.imgur.com/owUXUih.png" group-title="Music",Vevo True School Hip-Hop
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+
